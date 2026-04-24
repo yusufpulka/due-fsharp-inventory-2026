@@ -480,3 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+bin/
+obj/
+wwwroot/Scripts/WebSharper/
+wwwroot/Scripts/WebSharper/*
